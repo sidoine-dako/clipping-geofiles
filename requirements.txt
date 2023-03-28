@@ -1,0 +1,5 @@
+geopandas == 0.12.2
+pandas == 1.4.2
+streamlit == 1.19.0
+folium == 0.13.0
+pip show streamlit-folium == 0.11.0
